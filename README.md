@@ -6,6 +6,9 @@ handwritten digit image and identify it as a digit among 0,1..9. Following four 
 MNIST dataset – 
 
 a) Logistic Regression using SGD. 
+
 b) Neural Network. 
+
 c) Random Forest. 
+
 d) Support Vector Machine(SVM). 
